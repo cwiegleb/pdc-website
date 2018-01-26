@@ -1,5 +1,5 @@
 {
-    "title": "Kinderkleiderörse Kreischa",
+    "title": "Kinderkleiderbörse Kreischa",
     "name": "pdc-website",
     "version": "1.0.0",
     "description": "Website for Customers",
@@ -13,8 +13,7 @@
     ],
     "license": "MIT",
     "author": "Christian Wiegleb",
-    "contributors": [
-    ],
+    "contributors": [],
     "repository": {
         "type": "git",
         "url": "https://github.com/cwiegleb/pdc-website"

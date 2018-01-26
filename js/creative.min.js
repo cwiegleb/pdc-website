@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Kinderkleiderörse Kreischa v1.0.0 ()
+ * Start Bootstrap - Kinderkleiderbörse Kreischa v1.0.0 ()
  * Copyright 2013-2018 Christian Wiegleb
  * Licensed under MIT (https://github.com/BlackrockDigital/pdc-website/blob/master/LICENSE)
  */
