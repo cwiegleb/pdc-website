@@ -18,6 +18,9 @@
         "type": "git",
         "url": "https://github.com/cwiegleb/pdc-website"
     },
+    "scripts": {
+        "preinstall": "npx npm-force-resolutions"
+    },
     "dependencies": {
         "bootstrap": "^4.0.0-beta.2",
         "font-awesome": "4.7.0",
@@ -32,7 +35,10 @@
         "gulp-clean-css": "3.9.0",
         "gulp-header": "1.8.9",
         "gulp-rename": "^1.2.2",
-        "gulp-sass": "^3.1.0",
+        "gulp-sass": "4.1.0",
         "gulp-uglify": "3.0.0"
+    },
+    "resolutions": {
+        "graceful-fs": "^4.2.4"
     }
 }
